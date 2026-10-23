@@ -1,0 +1,1 @@
+{"name":"ams-premium","private":true,"type":"module","dependencies":{"@netlify/blobs":"latest","@netlify/functions":"latest","@netlify/identity":"latest"},"devDependencies":{"typescript":"latest"}}
